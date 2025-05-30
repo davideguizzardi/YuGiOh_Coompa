@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html class="dark" lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Deck Viewer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body class="bg-gray-900 text-zinc-100 p-6 flex flex-col">
+
+  <header class="mb-4 bg-gray-800 text-zinc-100 p-2 rounded">
+    <h1 id="deckTitle" class="text-2xl font-semibold mb-2">Deck Viewer</h1>
+  </header>
+
+  <div class="flex flex-col lg:flex-row gap-6">
+    <!-- Cards grid -->
+    <div id="cardGrid"
+      class="dark-scrollbar lg:order-1 order-2 lg:w-2/3 overflow-auto h-[80vh] rounded p-2 space-y-6 bg-gray-800">
+    </div>
+
+    <!-- Card details panel -->
+    <div id="cardDetails"
+      class="dark-scrollbar lg:order-2 order-1 flex flex-col bg-gray-800 rounded shadow p-4 overflow-auto lg:w-1/3">
+      <p class="text-gray-500 italic">Select a card to see details.</p>
+    </div>
+  </div>
+
+  <script>
+    let allCardsData = null; // will hold all cards info after loading
+    let altIdToMainCard = {}; // reverse lookup altID => main card
+    let deckSections = { main: [], extra: [], side: [] };
+
+    function getQueryParam(name) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(name);
+    }
+
+    async function loadAllCards() {
+      try {
+        const response = await fetch('all_cards.json');
+        if (!response.ok) throw new Error('Failed to load all_cards.json');
+        allCardsData = await response.json();
+
+        // Build reverse lookup map for alt IDs
+        altIdToMainCard = {};
+        for (const [mainId, card] of Object.entries(allCardsData)) {
+          if (card.card_images && Array.isArray(card.card_images)) {
+            card.card_images.forEach(altId => {
+              altIdToMainCard[altId] = card;
+            });
+          } else {
+            altIdToMainCard[mainId] = card;
+          }
+        }
+      } catch (e) {
+        alert("Error loading all_cards.json: " + e.message);
+      }
+    }
+
+    async function loadDeck(deckFile) {
+      try {
+        const response = await fetch('decks/' + deckFile);
+        if (!response.ok) throw new Error('Failed to load deck file');
+        const text = await response.text();
+        parseYDKSections(text);
+        await displayCards();
+      } catch (e) {
+        alert("Error loading deck file: " + e.message);
+      }
+    }
+
+    function parseYDKSections(ydkText) {
+      deckSections = { main: [], extra: [], side: [] };
+      let currentSection = 'main';
+
+      ydkText.split('\n').forEach(line => {
+        line = line.trim();
+        if (line === '' || line.startsWith('#created') || line.startsWith('#') || line.toLowerCase() === '!side') {
+          if (line.toLowerCase() === '#main') currentSection = 'main';
+          else if (line.toLowerCase() === '#extra') currentSection = 'extra';
+          else if (line.toLowerCase() === '!side') currentSection = 'side';
+          return;
+        }
+        deckSections[currentSection].push(line);
+      });
+    }
+
+
+    async function imageExists(url) {
+      try {
+        const res = await fetch(url, { method: 'HEAD' });
+        return res.ok;
+      } catch {
+        return false;
+      }
+    }
+
+    async function createCardElement(cardId) {
+      const cardIdNum = Number(cardId);
+      const mainCard = altIdToMainCard[cardIdNum];
+      const imgUrl = `./usedimages/${cardIdNum}.jpg`;
+
+      // Container div fixed size
+      const container = document.createElement('div');
+      container.className = "rounded cursor-pointer hover:scale-110 transition-transform flex items-center justify-center";
+
+      // Check if image exists
+      const exists = await imageExists(imgUrl);
+
+      if (exists) {
+        const img = document.createElement('img');
+        img.src = imgUrl;
+        img.alt = mainCard?.name ?? 'Unknown card';
+        img.title = mainCard?.name ?? '';
+        img.className = "rounded";
+        container.appendChild(img);
+      } else {
+        // Gray box with "No Image"
+        const span = document.createElement('span');
+        span.textContent = 'No Image';
+        span.className = "text-xs text-gray-500 text-center";
+        container.appendChild(span);
+      }
+
+      // Add click event to show main card details if exists
+      if (mainCard) {
+        container.addEventListener('click', () => showCardDetails(mainCard, cardIdNum));
+      }
+
+      return container;
+    }
+
+    const TYPE_PRIORITY = {
+      "Normal Monster": 1,
+      "Effect Monster": 2,
+      "Spell Card": 3,
+      "Trap Card": 4
+    };
+
+    function getTypePriority(type) {
+      if (type.includes("Normal Monster")) return TYPE_PRIORITY["Normal Monster"];
+      if (type.includes("Effect Monster")) return TYPE_PRIORITY["Effect Monster"];
+      if (type.includes("Spell")) return TYPE_PRIORITY["Spell Card"];
+      if (type.includes("Trap")) return TYPE_PRIORITY["Trap Card"];
+      return 99; // unknown type
+    }
+
+    async function displayCards() {
+      const grid = document.getElementById('cardGrid');
+      const details = document.getElementById('cardDetails');
+      grid.innerHTML = '';
+      details.innerHTML = '<p class="light:text-gray-500 italic">Select a card to see details.</p>';
+
+      for (const [section, cardIds] of Object.entries(deckSections)) {
+        if (cardIds.length === 0) continue;
+
+        const sectionTitle = document.createElement('h2');
+        sectionTitle.textContent = `${section.toUpperCase()} (${cardIds.length})`;
+        sectionTitle.className = "font-bold text-lg";
+        grid.appendChild(sectionTitle);
+
+        const sectionGrid = document.createElement('div');
+        sectionGrid.className = "grid grid-cols-5 items-center md:grid-cols-7 lg:grid-cols-10 gap-1";
+        grid.appendChild(sectionGrid);
+
+        // Group cards by mainId and count
+        const grouped = {};
+        for (const id of cardIds) {
+          const card = altIdToMainCard[Number(id)];
+          if (!card) continue;
+          const mainId = card.id;
+          if (!grouped[mainId]) {
+            grouped[mainId] = { card, count: 0, firstAltId: Number(id) };
+          }
+          grouped[mainId].count++;
+        }
+
+        // Sort cards by priority and name
+        const sorted = Object.values(grouped).sort((a, b) => {
+          const typeA = a.card.humanReadableCardType;
+          const typeB = b.card.humanReadableCardType;
+          const priA = getTypePriority(typeA) ?? 99;
+          const priB = getTypePriority(typeB) ?? 99;
+          if (priA !== priB) return priA - priB;
+          return a.card.name.localeCompare(b.card.name);
+        });
+
+        for (const { card, count, firstAltId } of sorted) {
+          const cardEl = await createCardElement(firstAltId);
+
+          // Badge for copy count
+          const badge = document.createElement('div');
+          badge.textContent = `x${count}`;
+          badge.className = "absolute bottom-0 left-1/2 -translate-x-1/2 bg-black bg-opacity-70 text-white text-base font-bold px-1 rounded-t-sm";
+          cardEl.classList.add("relative");
+          cardEl.appendChild(badge);
+
+          sectionGrid.appendChild(cardEl);
+        }
+      }
+    }
+
+
+    function showCardDetails(card, altId = null) {
+      const details = document.getElementById('cardDetails');
+      const imageId = altId ?? card.id;
+      details.innerHTML = `
+      <h2 class="text-xl font-bold mb-2">${card.name}</h2>
+      <div class="flex flex-col items-center lg:items-start lg:flex-row gap-4">
+        <div class="w-2/3 lg:w-1/2">
+          <img src="./usedimages/${imageId}.jpg" alt="${card.name}" class="mb-4 rounded shadow w-full lg:w-[12vw]"/>
+        </div>
+        <div class="flex flex-col gap-2 lg:w-1/2">
+          <p class="mb-2">[ ${card.type.toLowerCase().includes("monster") ? `${card.typeline.join(" / ")}` : `${card.humanReadableCardType}`} ]</p>
+          <p class="mb-2 whitespace-pre-wrap"> ${card.desc}</p>
+          <p class="mb-2"><strong>Current ban:</strong> ${card.ban_tgc_current ?? 'N/A'}</p>
+            <p class="mb-2"><strong>2014 ban:</strong> ${card.ban_tgc_2014 ?? 'N/A'}</p>
+          <a href="${card.ygoprodeck_url}" target="_blank" class="text-blue-600 hover:underline">More info</a>
+          </div>
+        </div>
+      `;
+    }
+
+    async function main() {
+      const deckFile = getQueryParam('deck');
+      if (!deckFile) {
+        alert('No deck specified in URL.');
+        return;
+      }
+      document.getElementById('deckTitle').textContent = deckFile;
+      await loadAllCards();
+      await loadDeck(deckFile);
+    }
+
+    main();
+  </script>
+
+</body>
+
+</html>

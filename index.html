@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Decks List</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white p-6 min-h-screen flex flex-col">
+  <header class="flex justify-between items-center mb-6">
+    <h1 class="text-3xl font-bold">Available Decks</h1>
+  </header>
+
+  <section class="overflow-y-auto max-h-[75vh] rounded-md p-2 bg-gray-800 shadow">
+    <div id="deckGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 p-2">
+      <!-- Deck boxes injected here -->
+    </div>
+  </section>
+
+  <section>
+    <div class="w-full flex flex-col items-center mt-4 bg-gray-800 p-2 rounded">
+      <a href="banlist.html" class="text-blue-600 hover:underline text-2xl font-bold">Banlist</a>
+    </div>
+  </section>
+
+  <script>
+    async function fetchDecks() {
+      try {
+        const response = await fetch('./decks/list.json');
+        if (!response.ok) throw new Error('Network response was not ok');
+        const decks = await response.json();
+        console.log(decks)
+        const deckGrid = document.getElementById('deckGrid');
+        deckGrid.innerHTML = '';
+        decks.forEach(deck => {
+          const box = document.createElement('div');
+          box.className = "hover:scale-105 transition-colors rounded-lg p-4 flex flex-col items-center justify-center cursor-pointer";
+          box.innerHTML = `
+            <a href="deck.html?deck=${encodeURIComponent(deck.filename)}" class="text-center w-full h-full flex flex-col justify-start items-center">
+              <img src="./usedimages/${deck.previewImage}.jpg" alt="${deck.filename}" class="mb-4 rounded shadow w-full  lg:w-[9vw]" />
+              <span class="text-sm font-medium">${deck.filename}</span>
+            </a>
+          `;
+          deckGrid.appendChild(box);
+        });
+      } catch (e) {
+        const deckGrid = document.getElementById('deckGrid');
+        deckGrid.innerHTML = '<p class="text-red-500">Failed to load decks.</p>';
+        console.error(e);
+      }
+    }
+
+    fetchDecks();
+  </script>
+</body>
+</html>
