@@ -1,6 +1,5 @@
 /* style.css */
 
-/* Only apply dark scrollbars if dark mode is active */
 .dark .dark-scrollbar::-webkit-scrollbar {
   width: 10px;
 }

@@ -23,7 +23,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 62320425,
@@ -48,7 +49,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 86120751,
@@ -74,7 +76,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 8233522,
@@ -100,7 +103,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 4280258,
@@ -133,7 +137,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 43262273,
@@ -149,7 +154,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 60953118,
@@ -174,7 +180,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 34267821,
@@ -199,7 +206,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 20292186,
@@ -224,7 +232,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 69304426,
@@ -249,7 +258,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 14558127,
@@ -275,7 +285,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 76794549,
@@ -304,7 +315,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 440556,
@@ -329,7 +341,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 84815190,
@@ -355,7 +368,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 73356503,
@@ -379,7 +393,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 19665973,
@@ -403,7 +418,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 13313278,
@@ -428,7 +444,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 27552504,
@@ -454,7 +471,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 80254726,
@@ -471,7 +489,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 9929398,
@@ -497,7 +516,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 85215458,
@@ -522,7 +542,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 94689206,
@@ -546,7 +567,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 27548199,
@@ -572,7 +594,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 87910978,
@@ -588,7 +611,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 1041278,
@@ -605,7 +629,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 50321796,
@@ -631,7 +656,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 68601507,
@@ -656,7 +682,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 53797637,
@@ -680,7 +707,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 69243953,
@@ -697,7 +725,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 72656408,
@@ -722,7 +751,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 6637331,
@@ -747,7 +777,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 33854624,
@@ -772,7 +803,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 72892473,
@@ -788,7 +820,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 57953380,
@@ -804,7 +837,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 4031928,
@@ -820,7 +854,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 82301904,
@@ -845,7 +880,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 97940434,
@@ -870,7 +906,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 3040496,
@@ -896,7 +933,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 12289247,
@@ -925,7 +963,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 46613515,
@@ -950,7 +989,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 60682203,
@@ -966,7 +1006,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 17375316,
@@ -982,7 +1023,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 15721123,
@@ -1007,7 +1049,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 87170768,
@@ -1032,7 +1075,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 57728570,
@@ -1049,7 +1093,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 14469229,
@@ -1078,7 +1123,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 50588353,
@@ -1109,7 +1155,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 98095162,
@@ -1141,7 +1188,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 39439590,
@@ -1165,7 +1213,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 34124316,
@@ -1190,7 +1239,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 69015963,
@@ -1214,7 +1264,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 24508238,
@@ -1239,7 +1290,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 15341821,
@@ -1263,7 +1315,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 28593329,
@@ -1287,7 +1340,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 26914168,
@@ -1311,7 +1365,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 40737112,
@@ -1336,7 +1391,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 32646477,
@@ -1361,7 +1417,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 22804410,
@@ -1386,7 +1443,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 44763025,
@@ -1402,7 +1460,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 56570271,
@@ -1427,7 +1486,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 37780349,
@@ -1452,7 +1512,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 23557835,
@@ -1468,7 +1529,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 91800273,
@@ -1492,7 +1554,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 82103466,
@@ -1516,7 +1579,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 8903700,
@@ -1541,7 +1605,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 64262809,
@@ -1565,7 +1630,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 62265044,
@@ -1582,7 +1648,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 38109772,
@@ -1606,7 +1673,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 94145021,
@@ -1631,7 +1699,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 51858306,
@@ -1655,7 +1724,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 97268402,
@@ -1680,7 +1750,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 17412721,
@@ -1705,7 +1776,34 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
+    },
+    {
+      "id": 14124483,
+      "name": "Elemental HERO Honest Neos",
+      "typeline": [
+        "Warrior",
+        "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "(Quick Effect): You can discard this card, then target 1 \"HERO\" monster on the field; it gains 2500 ATK until the end of this turn. (Quick Effect): You can discard 1 \"HERO\" monster; this card gains ATK equal to the discarded monster's ATK until the end of this turn. You can only use each effect of \"Elemental HERO Honest Neos\" once per turn.",
+      "race": "Warrior",
+      "atk": 2500,
+      "def": 2000,
+      "level": 7,
+      "attribute": "LIGHT",
+      "archetype": "Elemental HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-hero-honest-neos-8902",
+      "card_images": [
+        14124483
+      ],
+      "ban_tgc_current": 3,
+      "ban_tgc_2014": 3,
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 40044918,
@@ -1731,7 +1829,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 50078320,
@@ -1755,7 +1854,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 15693423,
@@ -1771,7 +1871,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 17484499,
@@ -1787,7 +1888,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 55623480,
@@ -1811,7 +1913,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 78661338,
@@ -1836,7 +1939,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 78706415,
@@ -1861,7 +1965,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 46640168,
@@ -1887,7 +1992,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 93369354,
@@ -1913,7 +2019,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 80978111,
@@ -1938,7 +2045,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 77565204,
@@ -1955,7 +2063,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 27970830,
@@ -1972,7 +2081,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 54635862,
@@ -1996,7 +2106,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 73642296,
@@ -2022,7 +2133,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 52038441,
@@ -2048,7 +2160,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 59438930,
@@ -2074,7 +2187,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 62015408,
@@ -2100,7 +2214,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 60643553,
@@ -2126,7 +2241,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 61318483,
@@ -2151,7 +2267,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 54512827,
@@ -2176,7 +2293,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 98707192,
@@ -2201,7 +2319,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 81907872,
@@ -2226,7 +2345,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 42703248,
@@ -2242,7 +2362,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 55204071,
@@ -2267,7 +2388,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 67441435,
@@ -2292,7 +2414,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 72589042,
@@ -2316,7 +2439,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 44330098,
@@ -2340,7 +2464,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 85008676,
@@ -2365,7 +2490,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 79571449,
@@ -2381,7 +2507,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 75732622,
@@ -2405,7 +2532,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 15771991,
@@ -2430,7 +2558,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 59537380,
@@ -2461,7 +2590,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 86148577,
@@ -2491,7 +2621,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 20450925,
@@ -2516,7 +2647,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 18144507,
@@ -2534,7 +2666,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 19613556,
@@ -2550,7 +2683,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 24094258,
@@ -2581,7 +2715,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 37742478,
@@ -2605,7 +2740,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 62242678,
@@ -2631,7 +2767,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 61740673,
@@ -2647,7 +2784,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 10045474,
@@ -2663,7 +2801,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 2414168,
@@ -2687,7 +2826,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 59934749,
@@ -2718,7 +2858,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 41855169,
@@ -2742,7 +2883,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 38491199,
@@ -2767,7 +2909,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 59546797,
@@ -2791,7 +2934,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 35059553,
@@ -2807,7 +2951,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 48626373,
@@ -2833,7 +2978,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 25926710,
@@ -2858,7 +3004,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 82627406,
@@ -2883,7 +3030,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 39064822,
@@ -2914,7 +3062,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 65330383,
@@ -2947,7 +3096,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 3679218,
@@ -2977,7 +3127,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 40640057,
@@ -3004,7 +3155,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 78355370,
@@ -3029,7 +3181,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 37629703,
@@ -3054,7 +3207,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 2511,
@@ -3079,7 +3233,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 74018812,
@@ -3104,7 +3259,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 81497285,
@@ -3129,7 +3285,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 28566710,
@@ -3145,7 +3302,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 85602018,
@@ -3161,7 +3319,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 34086406,
@@ -3187,7 +3346,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 57421866,
@@ -3211,7 +3371,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 89185742,
@@ -3235,7 +3396,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 30342076,
@@ -3264,7 +3426,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 85243784,
@@ -3293,7 +3456,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 41999284,
@@ -3323,7 +3487,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 4423206,
@@ -3349,7 +3514,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 34206604,
@@ -3373,7 +3539,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 21593977,
@@ -3397,7 +3564,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 37115575,
@@ -3422,7 +3590,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 11074235,
@@ -3446,7 +3615,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 34906152,
@@ -3462,7 +3632,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 23434538,
@@ -3487,7 +3658,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 44097050,
@@ -3519,7 +3691,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 46411259,
@@ -3535,7 +3708,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 96782886,
@@ -3560,7 +3734,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 41482598,
@@ -3576,7 +3751,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 38572779,
@@ -3600,7 +3776,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 83764719,
@@ -3617,7 +3794,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 33508719,
@@ -3642,7 +3820,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 79106360,
@@ -3667,7 +3846,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 42141493,
@@ -3692,7 +3872,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 87126721,
@@ -3717,7 +3898,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 84192580,
@@ -3742,7 +3924,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 76375976,
@@ -3758,7 +3941,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 88240999,
@@ -3784,7 +3968,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 74122412,
@@ -3810,7 +3995,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 52068432,
@@ -3836,7 +4022,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 25857246,
@@ -3862,7 +4049,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 27204311,
@@ -3886,7 +4074,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 54719828,
@@ -3911,7 +4100,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 10389142,
@@ -3936,7 +4126,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 63504681,
@@ -3962,7 +4153,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 95474755,
@@ -3987,7 +4179,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 58820923,
@@ -4013,7 +4206,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 52653092,
@@ -4039,7 +4233,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 8972398,
@@ -4063,7 +4258,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 89023486,
@@ -4080,7 +4276,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 34945480,
@@ -4105,7 +4302,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 74191942,
@@ -4121,7 +4319,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 17988746,
@@ -4145,7 +4344,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 23558733,
@@ -4169,7 +4369,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 67169062,
@@ -4186,7 +4387,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 55144522,
@@ -4203,7 +4405,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 25725326,
@@ -4233,7 +4436,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 70369116,
@@ -4264,7 +4468,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 70828912,
@@ -4280,7 +4485,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 39732186,
@@ -4304,7 +4510,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 43266605,
@@ -4329,7 +4536,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 75425043,
@@ -4355,7 +4563,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 2810642,
@@ -4381,7 +4590,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 74203495,
@@ -4407,7 +4617,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 1697104,
@@ -4433,7 +4644,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 38814750,
@@ -4459,7 +4671,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 3167573,
@@ -4483,7 +4696,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 10194329,
@@ -4508,7 +4722,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 73977033,
@@ -4533,7 +4748,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 97219708,
@@ -4558,7 +4774,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 2830693,
@@ -4583,7 +4800,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 91020571,
@@ -4607,7 +4825,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 23002292,
@@ -4623,7 +4842,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 53485634,
@@ -4648,7 +4868,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 14878871,
@@ -4673,7 +4894,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 63009228,
@@ -4697,7 +4919,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 46502744,
@@ -4722,7 +4945,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 27174286,
@@ -4738,7 +4962,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 83555666,
@@ -4755,7 +4980,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 1357146,
@@ -4780,7 +5006,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 93016201,
@@ -4796,7 +5023,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 62306203,
@@ -4820,7 +5048,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 26202165,
@@ -4844,7 +5073,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 4810828,
@@ -4869,7 +5099,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 41767843,
@@ -4894,7 +5125,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 57585212,
@@ -4910,7 +5142,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 72330894,
@@ -4942,7 +5175,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 8131171,
@@ -4966,7 +5200,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 3280747,
@@ -4982,7 +5217,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 67750322,
@@ -5006,7 +5242,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 63789924,
@@ -5022,7 +5259,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 45986603,
@@ -5038,7 +5276,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 33318980,
@@ -5063,7 +5302,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 41420027,
@@ -5080,7 +5320,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 54447022,
@@ -5096,7 +5337,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 12950294,
@@ -5120,7 +5362,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 46448938,
@@ -5137,7 +5380,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 33245030,
@@ -5162,7 +5406,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 27381364,
@@ -5193,7 +5438,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 91258852,
@@ -5218,7 +5464,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 27415516,
@@ -5242,7 +5489,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 23535429,
@@ -5267,7 +5515,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 20663556,
@@ -5292,7 +5541,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 74762582,
@@ -5317,7 +5567,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 23516703,
@@ -5333,7 +5584,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 61665245,
@@ -5364,7 +5616,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 53618293,
@@ -5389,7 +5642,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 27770341,
@@ -5405,7 +5659,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 33918636,
@@ -5435,7 +5690,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 43387895,
@@ -5461,7 +5717,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 18964575,
@@ -5485,7 +5742,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 64605089,
@@ -5509,7 +5767,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 92731385,
@@ -5535,7 +5794,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 63101919,
@@ -5560,7 +5820,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 29762407,
@@ -5576,7 +5837,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 42829885,
@@ -5592,7 +5854,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 88071625,
@@ -5616,7 +5879,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 63519819,
@@ -5642,7 +5906,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 56713174,
@@ -5667,7 +5932,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 20318029,
@@ -5692,7 +5958,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 73625877,
@@ -5716,7 +5983,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 35316708,
@@ -5732,7 +6000,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 43534808,
@@ -5756,7 +6025,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 22593417,
@@ -5788,7 +6058,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 98777036,
@@ -5812,7 +6083,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 64697231,
@@ -5828,7 +6100,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 68406755,
@@ -5853,7 +6126,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 33184167,
@@ -5877,7 +6151,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 98169343,
@@ -5902,7 +6177,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 12275533,
@@ -5926,7 +6202,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 52687916,
@@ -5952,7 +6229,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 88581108,
@@ -5978,7 +6256,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 80604092,
@@ -5995,7 +6274,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 83152482,
@@ -6025,7 +6305,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 5851097,
@@ -6041,7 +6322,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 44910027,
@@ -6065,7 +6347,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 81122844,
@@ -6091,7 +6374,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 78010363,
@@ -6115,7 +6399,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 3078576,
@@ -6140,7 +6425,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "0",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 20773176,
@@ -6169,7 +6455,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     },
     {
       "id": 85115440,
@@ -6195,7 +6482,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 48905153,
@@ -6221,7 +6509,8 @@
       ],
       "ban_tgc_current": 0,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 0
     },
     {
       "id": 31755044,
@@ -6246,7 +6535,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": 3,
-      "handtrap": true
+      "handtrap": true,
+      "our_banlist": 0
     }
   ],
   "1": [
@@ -6264,7 +6554,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 58921041,
@@ -6281,7 +6572,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 6728559,
@@ -6306,7 +6598,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 74311226,
@@ -6331,7 +6624,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 72989439,
@@ -6356,7 +6650,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 53804307,
@@ -6380,7 +6675,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 85106525,
@@ -6396,7 +6692,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 14087893,
@@ -6413,7 +6710,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 29401950,
@@ -6430,7 +6728,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 44362883,
@@ -6447,7 +6746,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 7394770,
@@ -6464,7 +6764,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 1662004,
@@ -6490,7 +6791,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 48976825,
@@ -6506,7 +6808,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 24224830,
@@ -6522,7 +6825,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 59750328,
@@ -6538,7 +6842,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 91623717,
@@ -6554,7 +6859,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 99266988,
@@ -6571,7 +6877,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 94886282,
@@ -6588,7 +6895,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 67616300,
@@ -6604,7 +6912,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 94192409,
@@ -6620,7 +6929,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 65681983,
@@ -6636,7 +6946,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 581014,
@@ -6662,7 +6973,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 65192027,
@@ -6687,7 +6999,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 14536035,
@@ -6712,7 +7025,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 53129443,
@@ -6729,7 +7043,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 14943837,
@@ -6754,7 +7069,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 78868119,
@@ -6779,7 +7095,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 70583986,
@@ -6805,7 +7122,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 81674782,
@@ -6821,7 +7139,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 15854426,
@@ -6838,7 +7157,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 13035077,
@@ -6855,7 +7175,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 54974237,
@@ -6871,7 +7192,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 45222299,
@@ -6897,7 +7219,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 11877465,
@@ -6923,7 +7246,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 33396948,
@@ -6948,7 +7272,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 95308449,
@@ -6964,7 +7289,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 81439173,
@@ -6981,7 +7307,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 6148016,
@@ -6998,7 +7325,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 39512984,
@@ -7024,7 +7352,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 64034255,
@@ -7050,7 +7379,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 41470137,
@@ -7075,7 +7405,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 75500286,
@@ -7091,7 +7422,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 7391448,
@@ -7117,7 +7449,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 53334471,
@@ -7133,7 +7466,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 99177923,
@@ -7158,7 +7492,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 9059700,
@@ -7175,7 +7510,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 66957584,
@@ -7192,7 +7528,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 1845204,
@@ -7208,7 +7545,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 93946239,
@@ -7224,7 +7562,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 68184115,
@@ -7249,7 +7588,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 69207766,
@@ -7274,7 +7614,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 63542003,
@@ -7299,7 +7640,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 7902349,
@@ -7324,7 +7666,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 44519536,
@@ -7349,7 +7692,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 29981921,
@@ -7375,7 +7719,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 23171610,
@@ -7391,7 +7736,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 30241314,
@@ -7407,7 +7753,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 32723153,
@@ -7423,7 +7770,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 71650854,
@@ -7439,7 +7787,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 21377582,
@@ -7464,7 +7813,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 36521307,
@@ -7489,7 +7839,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 69293721,
@@ -7514,7 +7865,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 37520316,
@@ -7530,7 +7882,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 43040603,
@@ -7546,7 +7899,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 99937011,
@@ -7571,7 +7925,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 3734202,
@@ -7588,7 +7943,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 80344569,
@@ -7613,7 +7969,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 16226786,
@@ -7638,7 +7995,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 75433814,
@@ -7664,7 +8022,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 69170557,
@@ -7690,7 +8049,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 33782437,
@@ -7706,7 +8066,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 2295440,
@@ -7722,7 +8083,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 80453041,
@@ -7748,7 +8110,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 12958919,
@@ -7772,7 +8135,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 84211599,
@@ -7789,7 +8153,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 74586817,
@@ -7815,7 +8180,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 12580477,
@@ -7831,7 +8197,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 58577036,
@@ -7847,7 +8214,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 88264978,
@@ -7873,7 +8241,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 90411554,
@@ -7897,7 +8266,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 32807846,
@@ -7913,7 +8283,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 74845897,
@@ -7929,7 +8300,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 85138716,
@@ -7953,7 +8325,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 70903634,
@@ -7978,7 +8351,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 8124921,
@@ -8003,7 +8377,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 90846359,
@@ -8019,7 +8394,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 72405967,
@@ -8036,7 +8412,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 34909328,
@@ -8062,7 +8439,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 45725480,
@@ -8078,7 +8456,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 66730191,
@@ -8095,7 +8474,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 30336082,
@@ -8112,7 +8492,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 24940422,
@@ -8128,7 +8509,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 73468603,
@@ -8144,7 +8526,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 82732705,
@@ -8160,7 +8543,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 52340444,
@@ -8177,7 +8561,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 71344451,
@@ -8193,7 +8578,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 84749824,
@@ -8210,7 +8596,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 73599290,
@@ -8226,7 +8613,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 97997309,
@@ -8243,7 +8631,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 73539069,
@@ -8272,7 +8661,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 93896655,
@@ -8302,7 +8692,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 65563871,
@@ -8332,7 +8723,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 48130397,
@@ -8348,7 +8740,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 90953320,
@@ -8374,7 +8767,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 37961969,
@@ -8399,7 +8793,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 74078255,
@@ -8424,7 +8819,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 572850,
@@ -8449,7 +8845,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 89399912,
@@ -8473,7 +8870,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 91810826,
@@ -8499,7 +8897,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 73628505,
@@ -8515,7 +8914,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 11110587,
@@ -8531,7 +8931,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 24207889,
@@ -8547,7 +8948,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 71564252,
@@ -8571,7 +8973,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 26400609,
@@ -8595,7 +8998,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 53582587,
@@ -8611,7 +9015,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 25311006,
@@ -8627,7 +9032,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 17078030,
@@ -8643,7 +9049,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 59297550,
@@ -8668,7 +9075,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "1",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 46060017,
@@ -8685,7 +9093,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     },
     {
       "id": 78872731,
@@ -8710,7 +9119,8 @@
       ],
       "ban_tgc_current": 1,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 1
     }
   ],
   "2": [
@@ -8728,7 +9138,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 61901281,
@@ -8752,7 +9163,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 2009101,
@@ -8778,7 +9190,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 85087012,
@@ -8802,7 +9215,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 36468556,
@@ -8818,7 +9232,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 9596126,
@@ -8843,7 +9258,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 34022970,
@@ -8868,7 +9284,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 25377819,
@@ -8885,7 +9302,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 8633261,
@@ -8910,7 +9328,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 14532163,
@@ -8926,7 +9345,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 48686504,
@@ -8950,7 +9370,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 68337209,
@@ -8967,7 +9388,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 32061192,
@@ -8992,7 +9414,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 69272449,
@@ -9017,7 +9440,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 28297833,
@@ -9041,7 +9465,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 29843091,
@@ -9058,7 +9483,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 55584558,
@@ -9075,7 +9501,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 21347668,
@@ -9092,7 +9519,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 10028593,
@@ -9116,7 +9544,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 92107604,
@@ -9133,7 +9562,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 9674034,
@@ -9158,7 +9588,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 90241276,
@@ -9183,7 +9614,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 423585,
@@ -9207,7 +9639,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 35844557,
@@ -9232,7 +9665,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 46652477,
@@ -9249,7 +9683,8 @@
       ],
       "ban_tgc_current": 3,
       "ban_tgc_2014": "2",
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 41165831,
@@ -9274,7 +9709,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     },
     {
       "id": 99234526,
@@ -9298,7 +9734,8 @@
       ],
       "ban_tgc_current": 2,
       "ban_tgc_2014": 3,
-      "handtrap": false
+      "handtrap": false,
+      "our_banlist": 2
     }
   ]
 }

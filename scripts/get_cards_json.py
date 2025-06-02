@@ -43,6 +43,8 @@ for card in cards:
 
     card_banlist=0 if card["handtrap"] else min(int(card["ban_tgc_2014"]),int(card["ban_tgc_current"]))
 
+    card["our_banlist"]=card_banlist
+
     if card_banlist<3:
         banlist_current[card_banlist].append(card)
 
