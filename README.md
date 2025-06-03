@@ -4,6 +4,7 @@ This is a simple web page that I'm using to keep track of my and my friends' Yu-
 It is not meant to be used outside our group but you are free to download the application and customize decks and banlist if you want.
 
 ## Folders structure
+```
 YuGiOh_Coompa/
 ├── decks/           # Folder for user-uploaded .ydk deck files
 │   ├── list.json    # JSON file listing available decks
@@ -18,7 +19,7 @@ YuGiOh_Coompa/
 ├── index.html       # Main landing page listing all decks
 ├── style.css        # CSS file for styling the application
 └── README.md        # Documentation and setup instructions
-
+```
 ## Adding a deck
 Decks are saved in the `decks` folder. The format used to save and read decks is `.ydk`, which is standard for sites like [YGOPROdeck](https://ygoprodeck.com).
 In order to enumerate and load decks it is also necessary to add an entry in the `list.json` file. The structure of the file is the following:
